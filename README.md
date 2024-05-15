@@ -2,6 +2,8 @@
 
 Welcome to the repository for Programming Basics with Python tasks from SoftUni!
 
+<img src="Python Basics preview.png">
+
 ## 🚀 Introduction
 This repository contains a collection of tasks from the Programming Basics with Python course at SoftUni. The tasks are organized according to the topics and exercises covered in the course. Each task is 100% correct, but if you encounter any issues, feel free to contact me.
 
